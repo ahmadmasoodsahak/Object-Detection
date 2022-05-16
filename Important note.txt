@@ -1,0 +1,2 @@
+yolov3.weights 
+file should be added to this folder in order to be able to work properly
