@@ -10,10 +10,10 @@ vs code IDE'sinde yazilmistir
 Bazi durumlarda Sadece Run calismayabilir Debug edilmesi gerekebilir.
 '''
 
-foto = '3.jpg'
+foto = '5.jpg'
 
 
-showCap = True
+showCap = False
 cap = cv2.VideoCapture(0)
 classes = []
 whT = 320
